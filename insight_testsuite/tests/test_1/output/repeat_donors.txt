@@ -1,0 +1,3 @@
+id|zipcode|year|p_val|total_contribution|num_of_contribution
+C00384516|2895|2018|333|333.0|1
+C00384516|2895|2018|333|717.0|2
